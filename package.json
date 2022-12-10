@@ -6,7 +6,7 @@
   "dependencies": {
     "apollo-boost": "^0.4.3",
     "apollo-server-express": "^2.7.0-alpha.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^14.4.1",
     "lodash": "^4.17.11",
     "mongodb": "^3.2.7",
